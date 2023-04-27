@@ -47,6 +47,8 @@ print(res)
 ## Output:
 ### (i) To find the L and U matrix
 ![lu decomposition](/output1.png)
+
+
 ### To print X matrix (solution to the equations)
 ![lu decomposition](/output2.png)
 
